@@ -1,6 +1,5 @@
 <h1>Easy Shopping</h1>
 <br>
-<img src="file:///C:/Users/Desktop/Downloads/Design%20sem%20nome.png">
 <br>
 <h2>This is a project made by me, learning in <a href="https://rodolfomori.com.br/devclub">DevClub</a>
 <br>
